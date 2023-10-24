@@ -4,7 +4,7 @@ AutoHotkey script to remap the typical WASD game keys to WERD
 
 ##Purpose
 
-Many PC games omit or incorrectly implement key remapping in-program. The suggested remedy for this situation is using the AutoHotkey program, but new users are often confused about how to write their own script. This repo will provide a working example of a script, and instructions in this readme. This will help users understand how the scripts work, and build confidence that the solution works before they invest time customizing their own scripts.
+Many PC games omit or incorrectly implement key remapping in-program. The suggested remedy for this situation is using the AutoHotkey program, but new users are often confused about how to write their own script to rebind keys. This repo will provide a working example of a script, and instructions in this readme. This will help users understand how the scripts work, and build confidence that the solution works before they invest time customizing their own scripts (or forking this repo for 'ESDF').
 
 
 ##Usage
